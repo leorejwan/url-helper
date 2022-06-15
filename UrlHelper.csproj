@@ -14,7 +14,7 @@
     <RepositoryUrl>https://github.com/leorejwan/url-helper</RepositoryUrl>
     <PackageProjectUrl>https://github.com/leorejwan/url-helper</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageTags>FriendlyUrlHelper</PackageTags>
+    <PackageTags>UrlHelper</PackageTags>
     <Title>Extensions for URL</Title>
     <Summary>Extensions for URL</Summary>
   </PropertyGroup>
